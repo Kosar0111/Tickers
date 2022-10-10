@@ -1,9 +1,17 @@
 import React from 'react'
-import { io } from 'socket.io-client'
+import { useSelector } from 'react-redux'
 
-const socket = io('http://localhost:4000')
+import { Ticker } from '../Ticker/Ticker'
 
 export const ListTickers = () => {
-  console.log(socket)
-  return <div className="list-tickers">ListTickers</div>
+  const tickers = useSelector((state) => state.tickers.tickers)
+  console.log(tickers)
+
+  return (
+    <div className="list-tickers">
+      {tickers.map((el) => (
+        <Ticker key={el.ticker} {...el} />
+      ))}
+    </div>
+  )
 }
