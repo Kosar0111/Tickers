@@ -1,5 +1,4 @@
-.list-tikers {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.list-tickers {
+  text-align: center;
+  margin: 70px auto;
 }

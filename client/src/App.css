@@ -1,7 +1,9 @@
 .app {
-  display: flex;
+  /* display: flex;
   justify-content: center;
-  align-items: center;
-  width: 100vw;
+  align-items: center; */
+  width: 70vw;
   height: 100vh;
+
+  margin: 0 auto;
 }

@@ -1,0 +1,45 @@
+.ticker {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 1px solid grey;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  width: 60vw;
+  height: 5vh;
+}
+.label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.company {
+  padding: 5px;
+}
+.img-down {
+  width: 15px;
+  height: 20px;
+}
+.change_percent {
+  min-width: 100px;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: green;
+}
+.change_percent-negative {
+  min-width: 100px;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: red;
+}
+.dividend,
+.tickeexchanger,
+.last_trade_time,
+.price {
+  padding: 5px;
+}
+.value {
+  display: flex;
+  justify-content: space-around;
+}
