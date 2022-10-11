@@ -1,4 +1,5 @@
 .list-tickers {
   text-align: center;
-  margin: 70px auto;
+  width: 90%;
+  margin: 20px auto 0;
 }

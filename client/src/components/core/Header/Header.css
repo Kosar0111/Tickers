@@ -2,4 +2,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 10px 0;
+  animation: header 10s linear infinite;
+}
+@keyframes header {
+  0% {
+    transform: translateX(+150%);
+  }
+  100% {
+    transform: translateX(-150%);
+  }
 }
