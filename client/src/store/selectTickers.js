@@ -1,1 +1,1 @@
-export const selectTickers = (state) => state.tickers.tickers
+export const selectTickers = (state) => state?.tickers?.tickers || []
