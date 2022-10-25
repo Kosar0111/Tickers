@@ -3,9 +3,10 @@ import { useSelector } from 'react-redux'
 import './ListTickers.css'
 
 import { Ticker } from '../Ticker/Ticker'
+import { selectTickers } from '../../../store/selectTickers'
 
 export const ListTickers = () => {
-  const tickers = useSelector((state) => state.tickers.tickers)
+  const tickers = useSelector(selectTickers)
 
   return (
     <div className="list-tickers">
