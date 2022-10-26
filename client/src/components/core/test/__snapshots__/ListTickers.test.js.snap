@@ -1,0 +1,1367 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListTickers should create ListTickers tickers items 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="list-tickers"
+      >
+        <h2>
+           Вас может заинтересовать:
+        </h2>
+        <div
+          class="ticker"
+        >
+          <div
+            class="company"
+          >
+            <span
+              class="label"
+            >
+              Ticker
+            </span>
+            AAPL
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Price
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              279.29
+            </div>
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Change
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              64.52
+            </div>
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Change %
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              0.84
+            </div>
+          </div>
+          <div
+            class="dividend"
+          >
+            <span
+              class="label"
+            >
+              Divident
+            </span>
+            0.56
+          </div>
+          <div
+            class="tickeexchanger"
+          >
+            <span
+              class="label"
+            >
+              Exchange
+            </span>
+            NASDAQ
+          </div>
+          <div
+            class="last_trade_time"
+          >
+            <span
+              class="label"
+            >
+              Trade time
+            </span>
+            11:53:21
+          </div>
+        </div>
+        <div
+          class="ticker"
+        >
+          <div
+            class="company"
+          >
+            <span
+              class="label"
+            >
+              Ticker
+            </span>
+            GOOGL
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Price
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              237.08
+            </div>
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Change
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              154.38
+            </div>
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Change %
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              0.1
+            </div>
+          </div>
+          <div
+            class="dividend"
+          >
+            <span
+              class="label"
+            >
+              Divident
+            </span>
+            0.46
+          </div>
+          <div
+            class="tickeexchanger"
+          >
+            <span
+              class="label"
+            >
+              Exchange
+            </span>
+            NASDAQ
+          </div>
+          <div
+            class="last_trade_time"
+          >
+            <span
+              class="label"
+            >
+              Trade time
+            </span>
+            11:53:21
+          </div>
+        </div>
+        <div
+          class="ticker"
+        >
+          <div
+            class="company"
+          >
+            <span
+              class="label"
+            >
+              Ticker
+            </span>
+            MSFT
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Price
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              261.46
+            </div>
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Change
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              161.45
+            </div>
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Change %
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              0.41
+            </div>
+          </div>
+          <div
+            class="dividend"
+          >
+            <span
+              class="label"
+            >
+              Divident
+            </span>
+            0.18
+          </div>
+          <div
+            class="tickeexchanger"
+          >
+            <span
+              class="label"
+            >
+              Exchange
+            </span>
+            NASDAQ
+          </div>
+          <div
+            class="last_trade_time"
+          >
+            <span
+              class="label"
+            >
+              Trade time
+            </span>
+            11:53:21
+          </div>
+        </div>
+        <div
+          class="ticker"
+        >
+          <div
+            class="company"
+          >
+            <span
+              class="label"
+            >
+              Ticker
+            </span>
+            AMZN
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Price
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              260.34
+            </div>
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Change
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              128.71
+            </div>
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Change %
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              0.6
+            </div>
+          </div>
+          <div
+            class="dividend"
+          >
+            <span
+              class="label"
+            >
+              Divident
+            </span>
+            0.07
+          </div>
+          <div
+            class="tickeexchanger"
+          >
+            <span
+              class="label"
+            >
+              Exchange
+            </span>
+            NASDAQ
+          </div>
+          <div
+            class="last_trade_time"
+          >
+            <span
+              class="label"
+            >
+              Trade time
+            </span>
+            11:53:21
+          </div>
+        </div>
+        <div
+          class="ticker"
+        >
+          <div
+            class="company"
+          >
+            <span
+              class="label"
+            >
+              Ticker
+            </span>
+            FB
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Price
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              266.77
+            </div>
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Change
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              171.92
+            </div>
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Change %
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              0.75
+            </div>
+          </div>
+          <div
+            class="dividend"
+          >
+            <span
+              class="label"
+            >
+              Divident
+            </span>
+            0.52
+          </div>
+          <div
+            class="tickeexchanger"
+          >
+            <span
+              class="label"
+            >
+              Exchange
+            </span>
+            NASDAQ
+          </div>
+          <div
+            class="last_trade_time"
+          >
+            <span
+              class="label"
+            >
+              Trade time
+            </span>
+            11:53:21
+          </div>
+        </div>
+        <div
+          class="ticker"
+        >
+          <div
+            class="company"
+          >
+            <span
+              class="label"
+            >
+              Ticker
+            </span>
+            TSLA
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Price
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              272.13
+            </div>
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Change
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              158.76
+            </div>
+          </div>
+          <div
+            class="change_percent-negative"
+          >
+            <span
+              class="label"
+            >
+              Change %
+            </span>
+            <div
+              class="value"
+            >
+              <img
+                alt="down"
+                class="img-down"
+                src="up.svg"
+              />
+              0.1
+            </div>
+          </div>
+          <div
+            class="dividend"
+          >
+            <span
+              class="label"
+            >
+              Divident
+            </span>
+            0.96
+          </div>
+          <div
+            class="tickeexchanger"
+          >
+            <span
+              class="label"
+            >
+              Exchange
+            </span>
+            NASDAQ
+          </div>
+          <div
+            class="last_trade_time"
+          >
+            <span
+              class="label"
+            >
+              Trade time
+            </span>
+            11:53:21
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="list-tickers"
+    >
+      <h2>
+         Вас может заинтересовать:
+      </h2>
+      <div
+        class="ticker"
+      >
+        <div
+          class="company"
+        >
+          <span
+            class="label"
+          >
+            Ticker
+          </span>
+          AAPL
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Price
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            279.29
+          </div>
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Change
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            64.52
+          </div>
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Change %
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            0.84
+          </div>
+        </div>
+        <div
+          class="dividend"
+        >
+          <span
+            class="label"
+          >
+            Divident
+          </span>
+          0.56
+        </div>
+        <div
+          class="tickeexchanger"
+        >
+          <span
+            class="label"
+          >
+            Exchange
+          </span>
+          NASDAQ
+        </div>
+        <div
+          class="last_trade_time"
+        >
+          <span
+            class="label"
+          >
+            Trade time
+          </span>
+          11:53:21
+        </div>
+      </div>
+      <div
+        class="ticker"
+      >
+        <div
+          class="company"
+        >
+          <span
+            class="label"
+          >
+            Ticker
+          </span>
+          GOOGL
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Price
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            237.08
+          </div>
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Change
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            154.38
+          </div>
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Change %
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            0.1
+          </div>
+        </div>
+        <div
+          class="dividend"
+        >
+          <span
+            class="label"
+          >
+            Divident
+          </span>
+          0.46
+        </div>
+        <div
+          class="tickeexchanger"
+        >
+          <span
+            class="label"
+          >
+            Exchange
+          </span>
+          NASDAQ
+        </div>
+        <div
+          class="last_trade_time"
+        >
+          <span
+            class="label"
+          >
+            Trade time
+          </span>
+          11:53:21
+        </div>
+      </div>
+      <div
+        class="ticker"
+      >
+        <div
+          class="company"
+        >
+          <span
+            class="label"
+          >
+            Ticker
+          </span>
+          MSFT
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Price
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            261.46
+          </div>
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Change
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            161.45
+          </div>
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Change %
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            0.41
+          </div>
+        </div>
+        <div
+          class="dividend"
+        >
+          <span
+            class="label"
+          >
+            Divident
+          </span>
+          0.18
+        </div>
+        <div
+          class="tickeexchanger"
+        >
+          <span
+            class="label"
+          >
+            Exchange
+          </span>
+          NASDAQ
+        </div>
+        <div
+          class="last_trade_time"
+        >
+          <span
+            class="label"
+          >
+            Trade time
+          </span>
+          11:53:21
+        </div>
+      </div>
+      <div
+        class="ticker"
+      >
+        <div
+          class="company"
+        >
+          <span
+            class="label"
+          >
+            Ticker
+          </span>
+          AMZN
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Price
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            260.34
+          </div>
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Change
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            128.71
+          </div>
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Change %
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            0.6
+          </div>
+        </div>
+        <div
+          class="dividend"
+        >
+          <span
+            class="label"
+          >
+            Divident
+          </span>
+          0.07
+        </div>
+        <div
+          class="tickeexchanger"
+        >
+          <span
+            class="label"
+          >
+            Exchange
+          </span>
+          NASDAQ
+        </div>
+        <div
+          class="last_trade_time"
+        >
+          <span
+            class="label"
+          >
+            Trade time
+          </span>
+          11:53:21
+        </div>
+      </div>
+      <div
+        class="ticker"
+      >
+        <div
+          class="company"
+        >
+          <span
+            class="label"
+          >
+            Ticker
+          </span>
+          FB
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Price
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            266.77
+          </div>
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Change
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            171.92
+          </div>
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Change %
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            0.75
+          </div>
+        </div>
+        <div
+          class="dividend"
+        >
+          <span
+            class="label"
+          >
+            Divident
+          </span>
+          0.52
+        </div>
+        <div
+          class="tickeexchanger"
+        >
+          <span
+            class="label"
+          >
+            Exchange
+          </span>
+          NASDAQ
+        </div>
+        <div
+          class="last_trade_time"
+        >
+          <span
+            class="label"
+          >
+            Trade time
+          </span>
+          11:53:21
+        </div>
+      </div>
+      <div
+        class="ticker"
+      >
+        <div
+          class="company"
+        >
+          <span
+            class="label"
+          >
+            Ticker
+          </span>
+          TSLA
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Price
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            272.13
+          </div>
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Change
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            158.76
+          </div>
+        </div>
+        <div
+          class="change_percent-negative"
+        >
+          <span
+            class="label"
+          >
+            Change %
+          </span>
+          <div
+            class="value"
+          >
+            <img
+              alt="down"
+              class="img-down"
+              src="up.svg"
+            />
+            0.1
+          </div>
+        </div>
+        <div
+          class="dividend"
+        >
+          <span
+            class="label"
+          >
+            Divident
+          </span>
+          0.96
+        </div>
+        <div
+          class="tickeexchanger"
+        >
+          <span
+            class="label"
+          >
+            Exchange
+          </span>
+          NASDAQ
+        </div>
+        <div
+          class="last_trade_time"
+        >
+          <span
+            class="label"
+          >
+            Trade time
+          </span>
+          11:53:21
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`ListTickers should create ListTickers with empty 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="list-tickers"
+      >
+        <h2>
+           Вас может заинтересовать:
+        </h2>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="list-tickers"
+    >
+      <h2>
+         Вас может заинтересовать:
+      </h2>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
